@@ -3,3 +3,6 @@
 import sys
 
 "Hi!"
+
+def foo():
+    return 0
