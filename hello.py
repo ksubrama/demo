@@ -6,4 +6,7 @@ import sys
 #Making some new changes while Kartik makes some of his own.
 
 def foo():
-    return 0
+    return 100
+
+def bar():
+    return foo()
