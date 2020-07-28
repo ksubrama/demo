@@ -7,3 +7,6 @@ import sys
 
 def foo():
     return 0
+
+def anewfunction():
+    return "HAHA"
