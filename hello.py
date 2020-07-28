@@ -10,3 +10,7 @@ def foo():
 
 def anewfunction():
     return "HAHA"
+
+def anotherfunction():
+    x = "WAT?"
+    return x
