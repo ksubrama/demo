@@ -14,3 +14,6 @@ def anewfunction():
 def anotherfunction():
     x = "WAT?"
     return x
+
+def somefunction():
+    return "I did a thing"
