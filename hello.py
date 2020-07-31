@@ -10,3 +10,11 @@ def foo():
 
 def bar():
     return foo()
+
+def anewfunction():
+    return "HAHA"
+
+def anotherfunction():
+    x = "WAT?"
+    return x
+
